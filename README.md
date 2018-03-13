@@ -67,4 +67,4 @@ The Configuration Profile for preference domain com.google.Chrome will whitelist
 
 From <a href="https://admin.google.com/">Google Admin Console</a>, Chrome management needs to be configured with a URL Blacklist and a URL Blacklist Exception. I recommend setting the blacklist to a bogus URL with a bogus protocol: ``foo://bar``. The Blacklist Exception needs to wildcard all ``http://*`` and ``https://*`` traffic.
 
-![Chrome Management](https://github.com/sincerelyjoshin/General-Management-Actions/blob/master/macOS/GoogleChromeManagement/GoogleAdminConsole-ChromeManagement.png)
+![Chrome Management](https://github.com/sincerelyjoshin/macOS-Chrome-G-Suite-Enforcement/blob/master/GoogleAdminConsole-ChromeManagement.png)
